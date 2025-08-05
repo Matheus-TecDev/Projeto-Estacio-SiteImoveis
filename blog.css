@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #e6e6e6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.branco {
+    color: white;
+}
+
+.header {
+    background-color: #FFD700;
+    padding: 15px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFD700;
+}
+
+.post p {
+    margin: 10px 0;
+}
+
+.menu,
+.logo {
+    padding: 10px;
+}
+
+.menu.a,
+.menu a:visited {
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+
+.menu a:hover {
+    background-color: white;
+    color: #FFD700;
+}
+
+.container {
+    width: 100%;
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.posts {
+    width: 100%;
+    max-width: 660px;
+    background-color: white;
+    float: left;
+    border-radius: 10px;
+}
+
+.post {
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #FFD700;
+}
+
+.data-post {
+    font-size: 0.8em;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.barra-lateral {
+    width: 100%;
+    max-width: 240px;
+    float: right;
+}
+
+.conteudo-lateral {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.conteudo-lateral h3 {
+    background-color: #FFD700;
+    color: white;
+    padding: 5px;
+}
+
+.post-destaque {
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px solid lightgrey;
+    border-radius: 10px;
+}
+
+.post-destaque:last-child {
+    border: none;
+    
+}
+
+.footer {
+    clear: both;
+    background-color: #FFD700;
+    padding: 15px;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+}
+
+
+@media (max-width: 768px) {
+    .posts, .barra-lateral {
+        width: 100%;
+        float: none;
+    }
+    .container {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header {
+        padding: 10px;
+    }
+    .footer {
+        padding: 10px;
+    }
+}
