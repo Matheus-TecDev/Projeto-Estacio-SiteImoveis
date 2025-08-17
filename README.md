@@ -95,6 +95,8 @@ Melhorar responsividade em dispositivos móveis.
 ## 👨‍💻 Autores
 
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
-- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)  
-📫 Contato: matheus.tecnodev@gmail.com
->>>>>>> dbccdcb (Alteração de um README.md simples e compacto para um mais completo e objetivo)
+  - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)  
+  - 📫 Contato: matheus.tecnodev@gmail.com  
+
+> Obs: Os demais 4 integrantes da equipe optaram por não divulgar suas contas aqui.
+
