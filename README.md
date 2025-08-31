@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Projeto-Estacio-SiteImoveis
-Projeto básico realizado em equipe, para trabalho da cadeira de JS
-=======
 # 🏠 Site de Imóveis - Estácio
 
 ## 📖 Descrição
@@ -14,8 +10,7 @@ O foco do projeto foi praticar **estruturação de sites multi-páginas**, uso d
 ---
 
 ## 🎮 Preview  
-
-![Preview do Site](./Trabalho%20Html%20Vendas%20De%20Imovéis/imagens/preview.png)
+![Preview do Site](./imagens/preview.png)
 
 👉 [Acessar o projeto na Vercel](https://projeto-estacio-site-imoveis.vercel.app/)
 
@@ -56,17 +51,20 @@ O foco do projeto foi praticar **estruturação de sites multi-páginas**, uso d
 ## 🚀 Como usar
 
 1. Clone o repositório:
-
-    git clone https://github.com/Matheus-TecDev/Projeto-DC-Letreco.git
+	
+	```bash	
+	git clone https://github.com/Matheus-TecDev/Projeto-DC-Letreco.git
 
     
 2. Acesse a pasta do projeto:
-    
-    cd letreco
+  
+	```bash  
+	cd letreco
 
     
 3. Abra o arquivo `index.html` no navegador
     
+    ```bash
     *(ou utilize a extensão **Live Server** do VS Code para melhor experiência).*
     
 
@@ -95,8 +93,8 @@ Melhorar responsividade em dispositivos móveis.
 ## 👨‍💻 Autores
 
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
-  - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)  
-  - 📫 Contato: matheus.tecnodev@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/)  
+
+📫 Contato: matheus.tecnodev@gmail.com  
 
 > Obs: Os demais 4 integrantes da equipe optaram por não divulgar suas contas aqui.
-
